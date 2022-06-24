@@ -1,0 +1,9 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'SIPP'
+theme = ['theme']
+
+[params]
+  author = 'BPJS Kesehatan'
+  description = "Tesla's Awesome Hugo Site"
+
